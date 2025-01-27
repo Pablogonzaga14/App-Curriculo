@@ -21,5 +21,7 @@
         alcançarem seu melhor desempenho.\n\n\n</string>
     <string name="txt_BotaoProjetos">Projetos</string>
     <string name="txt_BotaoContato">Contato</string>
+    <string name="title_toolbar_contato">Contato</string>
+    <string name="title_toolbar_projetos">Projetos</string>
 
 </resources>

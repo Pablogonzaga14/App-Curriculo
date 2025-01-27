@@ -5,6 +5,19 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="android:statusBarColor">@color/blue</item>
     </style>
+    <style name="TelaDeContato" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_green</item>
+    </style>
+
+    <style name="TelaDeProjeto" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+
+
 
     <style name="Theme.MeuPortifolio" parent="Base.Theme.MeuPortifolio" />
+    <style name="Theme.TelaDeContato" parent="TelaDeContato"/>
+    <style name="Theme.TelaDeProjeto" parent="TelaDeProjeto"/>
+
 </resources>
